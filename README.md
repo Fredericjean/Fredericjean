@@ -1,6 +1,10 @@
 # Hi there, I'm Frédéric JEAN 👋
 
-##
+## About me
+
+## Skills
+
+## Learning Skills
 
 ## Github Stats
 
