@@ -3,6 +3,7 @@
 ## About me
 
 ## Skills
+![Static Badge](https://img.shields.io/badge/%231572B6-CSS3-blue)
 
 ## Learning Skills
 
